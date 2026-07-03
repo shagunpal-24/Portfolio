@@ -239,6 +239,19 @@ section.visible {
   font-size: 0.98rem;
 }
 
+.resume-btn {
+  margin-top: 16px;
+  display: inline-flex;
+  width: fit-content;
+}
+
+@media (max-width: 600px) {
+  .resume-btn {
+    width: 100%;
+    justify-content: center;
+    margin-top: 20px;
+  }
+}
 /* ══════════════════════════════════════════════════════════════
    SKILLS
 ══════════════════════════════════════════════════════════════ */
