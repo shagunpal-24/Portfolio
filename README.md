@@ -23,7 +23,7 @@ Welcome to my personal portfolio website! This site showcases my projects, skill
 ---
 
 ## 🚀 Live Preview
-> 🔗 [View Portfolio](https://shagunpal-24.github.io/Portfolio/Dev%20Portfolio.html) *(enable GitHub Pages in repo settings if the link isn't live yet)*
+> 🔗 **[View Live Portfolio →](https://shagunpal-24.github.io/Portfolio/)**
 
 ---
 
